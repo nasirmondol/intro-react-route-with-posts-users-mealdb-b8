@@ -1,0 +1,12 @@
+nav a{
+    margin: 15px;
+}
+
+nav .active{
+    color: black;
+    background-color: rgba(88, 103, 60, 0.649);
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 6px;
+    align-items: center;
+}

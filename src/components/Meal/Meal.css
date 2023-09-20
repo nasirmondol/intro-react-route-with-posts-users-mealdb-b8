@@ -1,0 +1,11 @@
+.meal{
+    border: 2px solid olive;
+    border-radius: 8px;
+    /* padding: 6px; */
+}
+
+.meal img{
+    width: 415px;
+    height: 270px;
+    border-radius: 0px 8px  8px 0px;
+}
